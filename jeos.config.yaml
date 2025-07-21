@@ -1,0 +1,7 @@
+name: JE-OS
+version: 0.1
+author: สราวุธ พัดใส (บอส)
+core:
+  identity_kernel: true
+  shadow_guard: active
+  activation_code: "N=0"
